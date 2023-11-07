@@ -32,6 +32,7 @@ SHOP RECIPE
 Powered by
 Chicory logo
 
+778-456-7890
 
 You can make this for anyone by replacing the gluten parts witha gluten free part
 Enjoy my recipe!
