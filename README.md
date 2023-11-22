@@ -2,7 +2,7 @@
 # recipe
 
 <h1>Recipe for making vegetarian pot pie</h1>
-<img src="/Users/blairjdaniel/ubc_ds/data_toolbox/student/recipe/recipe/recipe.jpeg">
+<img src="https://raw.githubusercontent.com/blairjdaniel/recipe/main/recipe.jpeg">
 <h3>by BlairJDaniel</h3>
 <ol>
 <li><em>Step by step <strong>instructions</strong> to make Veggie pot pie</em></li>
